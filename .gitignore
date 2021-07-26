@@ -6,12 +6,26 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+venv/
+.ipynb_checkpoints
+.vscode/
+.idea/
+__pycache__/
+data/
+result/
+model/
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+*.bag
+*.mat
+*.jpg
+*.mp4
+*.png
+*.PNG
+
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
